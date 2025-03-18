@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import Accessories from './pages/Accessories';
 import Cameras from './pages/Cameras';
 import Cranes from './pages/Cranes';
